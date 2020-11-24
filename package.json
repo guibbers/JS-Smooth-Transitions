@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/guibbers/cssSmoothTransition/issues"
   },
-  "homepage": "https://github.com/guibbers/cssSmoothTransition#readme"
+  "homepage": "https://github.com/guibbers/cssSmoothTransition#readme",
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.5.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.29.0"
+  }
 }
